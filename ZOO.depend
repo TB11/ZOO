@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1411392072 source:/home/student/Desktop/ZOO/main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	<unistd.h>
+
+1411372724 source:/home/student/Desktop/ZOO/zoo.cpp
+	<iostream>
+	<vector>
+	<string>
+
