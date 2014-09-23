@@ -1,4 +1,4 @@
-TEST
+ZOO
 ====
 
-Testowe repo
+Zabawa zwierzatkami
